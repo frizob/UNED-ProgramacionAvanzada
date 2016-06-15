@@ -1,0 +1,9 @@
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\bin\Debug\DeitelSimpleGUI.exe.config
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\bin\Debug\DeitelSimpleGUI.exe
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\bin\Debug\DeitelSimpleGUI.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.Menu.resources
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.exe
+c:\users\francisco\documents\visual studio 2015\Projects\DeitelSimpleGUI\DeitelSimpleGUI\obj\Debug\DeitelSimpleGUI.pdb
